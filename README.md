@@ -8,7 +8,7 @@ Data lineage is the process of tracking data over time, recording its origin, ho
 - Parsing: logic used to process data is read automatically, but complex to deploy
 
 [Openlineage](https://openlineage.io/) provides an open standard for data lineage collection and analysis. It tracks metadata about datasets, jobs, and runs, using a consistent naming strategy. The core lineage model is extensible by defining specific facets to enrich those entities. 
-![openlineage events outline](Screen Captures/openlineage events outlne.svg)
+![openlineage events outline](Screen Captures/openlineage events outline.svg)
 In this package, we use openlineage's python client, which uses the self-contained approach, to add function-logging capabilities to [brightway](https://github.com/brightway-lca/brightway25).
 
 ## Data lineage in the context of LCA
