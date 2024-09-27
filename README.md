@@ -49,8 +49,9 @@ For this example, we use Brightway IO to import ecoinvent and apply strategies b
 Similar screenshots are brought for this example below:
 
 ![ecoinvent example marquez environment](images/ecoinvent_example_marquez_env.png)
-![ecoinvent example jobs_list](images/ecoinvent_example_events_outline.png)
+
 ![ecoinvent example job view](images/ecoinvent_example_jobs.png)
+
 ![ecoinvent example dataset view](images/ecoinvent_example_dataset.png)
 
 NB: currently, we run into a maximum recursion error which we're trying to solve. If you can help, that'd be appreciated :D
